@@ -1,7 +1,7 @@
 # test_notas_unittest.py
 import unittest
 import pytest
-from notas import agregar_nota, limpiar_datos
+from notas.notas import agregar_nota, limpiar_datos
 
 # ----------------------------------------------------------------------
 # CLASE DE PRUEBAS
